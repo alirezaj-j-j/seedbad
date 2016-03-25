@@ -226,7 +226,8 @@ function create_config( )
     "all",
     "leave_ban",
     "admin"
-    "Blaock",
+    "lock_media.lua",
+
     },
     sudo_users = {102407607},--Sudo users
     disabled_channels = {},
