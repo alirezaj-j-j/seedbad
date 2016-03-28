@@ -218,7 +218,7 @@ function create_config( )
     "owners",
     "arabic_lock",
     "set",
-    "plugins,
+    "plugins",
     "welcome",
     "get",
     "broadcast",
